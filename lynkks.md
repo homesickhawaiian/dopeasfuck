@@ -1,6 +1,6 @@
 # dope ass lynkks
 
-## My Resources
+## My Resources <font color="#cdcdcd"> &nbsp;\#</font>
 - [ ] [vuemastery **Intro to Vue.js**](https://www.vuemastery.com/courses/intro-to-vue-js/)
 - [ ] [Packt Free Learning](https://www.packtpub.com/free-learning)
 - [ ] [Pluralsight](http://pluralsight.com)
@@ -10,7 +10,7 @@
 - [ ] [ReadtheDocs](https://readthedocs.org/dashboard/)
      > - [ ] [Getting Started with Sphinx](https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html)
      
-## Down the Rabbithole
+## Down the Rabbithole \#
 - [ ] [Basic Concepts of Firebox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
 - [ ] [JMESPath Tutorial](http://jmespath.org/tutorial.html)
      > JMESPath (JSON Matching Expression paths) is a query language for search JSON documents. It allows you to declaratively extract elements from a JSON document. XPath, for JSON.
@@ -145,5 +145,5 @@ bootstrap/
 ```
 <center>< /&hearts; > &nbsp;|&nbsp; &nbsp; &nbsp; <a href="http://github.com/homesickhawaiian"><img src="C:\root\dev\imgs\github-logo.png" width="20" height="20"></a></center>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzgwNjQyMTddfQ==
+eyJoaXN0b3J5IjpbNjc0MTQ3MDI4LC0xMDc4MDY0MjE3XX0=
 -->
