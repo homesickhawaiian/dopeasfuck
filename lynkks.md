@@ -1,6 +1,6 @@
-# dope ass lynkks
+# dope ass lynkks <font color="#dddddd"> &nbsp;\#</font>
 
-## My Resources <font color="#cdcdcd"> &nbsp;\#</font>
+## My Resources <font color="#dddddd"> &nbsp;\#</font>
 - [ ] [vuemastery **Intro to Vue.js**](https://www.vuemastery.com/courses/intro-to-vue-js/)
 - [ ] [Packt Free Learning](https://www.packtpub.com/free-learning)
 - [ ] [Pluralsight](http://pluralsight.com)
@@ -10,7 +10,7 @@
 - [ ] [ReadtheDocs](https://readthedocs.org/dashboard/)
      > - [ ] [Getting Started with Sphinx](https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html)
      
-## Down the Rabbithole \#
+## Down the Rabbithole <font color="#dddddd"> &nbsp;\#</font>
 - [ ] [Basic Concepts of Firebox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
 - [ ] [JMESPath Tutorial](http://jmespath.org/tutorial.html)
      > JMESPath (JSON Matching Expression paths) is a query language for search JSON documents. It allows you to declaratively extract elements from a JSON document. XPath, for JSON.
@@ -23,19 +23,19 @@
      > - [ ] [Tabler](https://tabler.io)
 - [ ] [Mongoose](https://code.google.com/archive/p/mongoose/) > Mongoose is an embedded HTTP and WebSocket library that can turn anything into a web server in 5 minutes by adding a few lines of C/C++ code
 
-## Linux
+## Linux <font color="#dddddd"> &nbsp;\#</font>
 - [ ] [How to use the SCP command to transfer files](https://www.hostinger.com/tutorials/using-scp-command-to-transfer-files/)
 - [ ] [Iptables Tutorial – Securing Ubuntu VPS with Linux Firewall](https://www.hostinger.com/tutorials/iptables-tutorial)
 - [ ] [30 Linux commands every user should know](https://www.hostinger.com/tutorials/linux-commands)
 - [ ] [ How to use find and locate commands in linux](https://www.hostinger.com/tutorials/how-to-use-find-and-locate-commands-in-linux/)
 - [ ] [ How to install ffmpeg](https://www.hostinger.com/tutorials/how-to-install-ffmpeg)
 
-## Markdown
+## Markdown <font color="#dddddd"> &nbsp;\#</font>
 - [ ] [Markdown Guide](http://markdownguide.org/)
 - [ ] [Markdown (official)](https://daringfireball.net/orijects/markdown)
 - [ ] [Hackmd.io](http://hackmd.io)
 
-## [Jabba](https://images.app.goo.gl/U47vYEbPPFBu9p2Z7) Script
+## [Jabba](https://images.app.goo.gl/U47vYEbPPFBu9p2Z7) Script <font color="#dddddd"> &nbsp;\#</font>
 - [ ] [Javascript.info Tutorials](http://javascript.info)
 - [ ] [Fullstack Web Application using React, Nodejs, Express, and Webpack](https://hackernoon.com/full-stack-web-application-using-react-node-js-express-and-webpack-97dbd5b9d708)
 - [ ] [Create React App](https://facebook.github.io/create-react-app/)
@@ -58,7 +58,7 @@
      > - [ ] [Now much more powerful!](https://medium.com/@FezVrasta/popper-js-v1-5e8b3acd888c)
      >  > Popper.js is a positioning engine; its purpose is to calculate the position of an element to make it possible to position it near a given reference element
 
-## Github
+## Github <font color="#dddddd"> &nbsp;\#</font>
 ### Repositories
 - [ ] [Webpack](https://github.com/webpack/webpack)
      > - [ ] [AriaFallah/**WebpackTutorial**](https://github.com/AriaFallah/WebpackTutorial)
@@ -83,7 +83,7 @@
 - [ ] [BitBucket](https://www.jetbrains.com/help/idea/configuring-browsers.html)
      > - [ ] [Upgrading Ubuntu to use the Latest Git Version](http://lifeonubuntu.com/upgrading-ubuntu-to-use-the-latest-git-version/)
 
-## Networking
+## Networking <font color="#dddddd"> &nbsp;\#</font>
 - [ ] [DNS Made Easy](http://dnsmadeeasy.com)
      > - [ ] [Great DNS Tutorials](C:\Users\theho\.WebStorm2019.1\config\scratches\scratch.md)
 - [ ] [nginx](http://nginx.org)
@@ -95,7 +95,7 @@
 - [ ] [DNS Failover or Load Balancing ...or Both?](http://social.dnsmadeeasy.com/blog/dns-failover-or-load-balancing-or-both/)
 - [ ] [How to Redirect One Domain to Anohter](http://social.dnsmadeeasy.com/blog/how-to-redirect-from-one-domain-to-another/)
 
-## Azure
+## Azure <font color="#dddddd"> &nbsp;\#</font>
 - [ ] [**Google Search**: How to get Azure credits](https://www.google.com/search?q=how+to+get+azure+credits&oq=how+to+get+azure+credits&aqs=chrome.0.0l6.3930j0j4&sourceid=chrome&ie=UTF-8)
 - [ ] [Build and run a web application with the MEAN stack on an Azure Linux virtual machine](https://docs.microsoft.com/en-us/learn/modules/build-a-web-app-with-mean-on-a-linux-vm/)
 - [ ] [Configure DHCPv6 for Linux VMs](https://docs.microsoft.com/en-us/azure/load-balancer/load-balancer-ipv6-for-linux)
@@ -104,10 +104,10 @@
 - [ ] [Tutorial: Host your domain in Azure DNS](https://docs.microsoft.com/en-us/azure/dns/dns-delegate-domain-azure-dns)
 - [ ] [Monthly Azure credit for Visual Studio subscribers](https://azure.microsoft.com/en-us/pricing/member-offers/credit-for-visual-studio-subscribers/)
 
-## Reading
+## Reading <font color="#dddddd"> &nbsp;\#</font>
 - [ ] [The Lifespan of a Lie](https://medium.com/s/trustissues/the-lifespan-of-a-lie-d869212b1f62)
 
-## Misc Shit
+## Misc Shit <font color="#dddddd"> &nbsp;\#</font>
 + Tryple Bite offers a $1,000 signing bonus
 + Sentry use the code `devchat` for $100 credit
 + Linode offers $20 credit
@@ -143,7 +143,7 @@ bootstrap/
         ├── bootstrap.min.js
         └── bootstrap.min.js.map
 ```
-<center>< /&hearts; > &nbsp;|&nbsp; &nbsp; &nbsp; <a href="http://github.com/homesickhawaiian"><img src="C:\root\dev\imgs\github-logo.png" width="20" height="20"></a></center>
+<center>< /&hearts; > &nbsp;|&nbsp; &nbsp; &nbsp; <a href="http://github.com/homesickhawaiian"><img src="C:\root\dev\imgs\github-logo.png" width="20" height="20"></a>  <font color="#dddddd"> &nbsp;#</font></center>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc0MTQ3MDI4LC0xMDc4MDY0MjE3XX0=
+eyJoaXN0b3J5IjpbLTEwODcyMzk3MywtMTA3ODA2NDIxN119
 -->
