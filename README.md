@@ -1,5 +1,4 @@
-# dopeasfuck
-This shit's fire!
+# shit's fire
 ```
      _                             __            _     _   _
   __| | ___  _ __   ___  __ _ ___ / _|_   _  ___| | __| |_| | __
